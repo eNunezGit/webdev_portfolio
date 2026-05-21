@@ -1,6 +1,10 @@
+![Web Dev Banner](./images/ChatGPT%20Image%20May%2021,%202026,%2010_43_45%20AM.png)
+
 # Web Development Portfolio
 
 Currently a Front-end Junior in a journey of accumulating knowledge. Future Full-stack dev : )
+
+Desarrollador Web Jr. | JavaScript | React | HTML | CSS | Node.js | MongoDB
 
 ## Overview
 
