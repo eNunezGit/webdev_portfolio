@@ -57,8 +57,8 @@ Topics:
 
 ## Contact
 
-GitHub: https://github.com/eNunezGit/
+GitHub: [https://www.linkedin.com/in/enriquealejandronúñezatiaga](https://github.com/eNunezGit/)
 
-LinkedIn: https://www.linkedin.com/in/enriquealejandronúñezatiaga
+LinkedIn: [https://www.linkedin.com/in/enriquealejandronúñezatiaga](https://www.linkedin.com/in/enriquealejandronúñezatiaga)
 
-Website: 
+Website: [https://enunezgit.github.io/webdev_portfolio/](https://enunezgit.github.io/webdev_portfolio/)
