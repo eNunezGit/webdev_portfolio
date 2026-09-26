@@ -61,7 +61,7 @@ Topics:
 
 Projects:
 
-| [MusicFetch](https://github.com/eNunezGit/web-musicfetch-frontend) | TripleTen capstone project: a React SPA for searching artists/albums and saving them to a personal feed, backed by a custom Node/Express/MongoDB API for auth and storage ([backend repo](https://github.com/eNunezGit/web-musicfetch-ba ckend)) | JavaScript/React/Node.js | Completed |
+| [MusicFetch](https://github.com/eNunezGit/web-musicfetch-frontend) | TripleTen capstone project: a React SPA for searching artists/albums and saving them to a personal feed, backed by a custom Node/Express/MongoDB API for auth and storage ([backend repo](https://github.com/eNunezGit/web-musicfetch-backend)) | JavaScript/React/Node.js | Completed |
 | [Web Project API Full](https://github.com/eNunezGit/web_project_api_full) | TripleTen full-stack project: REST API with user auth and a React front-end | JavaScript/Node.js/React | Completed |
 
 ### Tools & Workflow
