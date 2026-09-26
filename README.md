@@ -2,9 +2,9 @@
 
 # Web Development Portfolio
 
-Currently a Front-end Junior in a journey of accumulating knowledge. Future Full-stack dev : )
+Currently a Tripleten graduate as a Web Developer in a journey of accumulating knowledge. Future Full-stack dev : )
 
-Desarrollador Web Jr. | JavaScript | React | HTML | CSS | Node.js | MongoDB
+Web Dev Jr. | JavaScript | React | HTML | CSS | Node.js | MongoDB
 
 ## Overview
 
@@ -12,7 +12,7 @@ This is the repository for my web page portfolio in which I document my achievem
 
 ### Current focus:
 
-- Frontend engineering
+- Web Development engineering
 - Responsive design
 - JavaScript systems
 - Git / GitHub workflows
@@ -48,6 +48,22 @@ Projects:
 
 | [Web Project Around](https://enunezgit.github.io/web_project_around/) | This project was my first introduction to async functions and fetch requests | Javascript | Refining proccess |
 
+### React & Backend
+
+Topics:
+
+- Node.js
+- Express
+- MongoDB
+- REST APIs
+- Auth (JWT)
+- Full-stack integration
+
+Projects:
+
+| [MusicFetch](https://github.com/eNunezGit/web-musicfetch-frontend) | TripleTen capstone project: a React SPA for searching artists/albums and saving them to a personal feed, backed by a custom Node/Express/MongoDB API for auth and storage ([backend repo](https://github.com/eNunezGit/web-musicfetch-ba ckend)) | JavaScript/React/Node.js | Completed |
+| [Web Project API Full](https://github.com/eNunezGit/web_project_api_full) | TripleTen full-stack project: REST API with user auth and a React front-end | JavaScript/Node.js/React | ⚠️ link needs checking — 404 |
+
 ### Tools & Workflow
 
 Topics:
@@ -55,14 +71,13 @@ Topics:
 - Git
 - GitHub
 - CLI
-- Jekyll
 - CI/CD
 - Dev environments
 
 ## Contact
 
-GitHub: [https://www.linkedin.com/in/enriquealejandronúñezatiaga](https://github.com/eNunezGit/)
+GitHub: [https://github.com/eNunezGit](https://github.com/eNunezGit)
 
-LinkedIn: [https://www.linkedin.com/in/enriquealejandronúñezatiaga](https://www.linkedin.com/in/enriquealejandronúñezatiaga)
+LinkedIn: [https://www.linkedin.com/in/enriquealejandronunezatiaga](https://www.linkedin.com/in/enriquealejandronunezatiaga)
 
 Website: [https://enunezgit.github.io/webdev_portfolio/](https://enunezgit.github.io/webdev_portfolio/)
