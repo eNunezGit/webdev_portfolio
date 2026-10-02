@@ -63,6 +63,7 @@ Projects:
 
 | [MusicFetch](https://github.com/eNunezGit/web-musicfetch-frontend) | TripleTen capstone project: a React SPA for searching artists/albums and saving them to a personal feed, backed by a custom Node/Express/MongoDB API for auth and storage ([backend repo](https://github.com/eNunezGit/web-musicfetch-backend)) | JavaScript/React/Node.js | Completed |
 | [Web Project API Full](https://github.com/eNunezGit/web_project_api_full) | TripleTen full-stack project: REST API with user auth and a React front-end | JavaScript/Node.js/React | Completed |
+| [Real State Demo (Mockup)](https://github.com/eNunezGit/real-state-demo) | Prototipo del frontend de un portal inmobiliario. Incluye navegación, una página de inicio con buscador, un hub de propiedades con filtros, acceso (login/registro) y la página de cuenta del usuario. | JavaScript/Node.js/React | In Proccess |
 
 ### Tools & Workflow
 
